@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://umandam.github.io/csb-3g1eu/static/js/main.c98c82fc.chunk.js",
+    "main.js.map": "https://umandam.github.io/csb-3g1eu/static/js/main.c98c82fc.chunk.js.map",
+    "runtime-main.js": "https://umandam.github.io/csb-3g1eu/static/js/runtime-main.be24a831.js",
+    "runtime-main.js.map": "https://umandam.github.io/csb-3g1eu/static/js/runtime-main.be24a831.js.map",
+    "static/js/2.17c210ea.chunk.js": "https://umandam.github.io/csb-3g1eu/static/js/2.17c210ea.chunk.js",
+    "static/js/2.17c210ea.chunk.js.map": "https://umandam.github.io/csb-3g1eu/static/js/2.17c210ea.chunk.js.map",
+    "index.html": "https://umandam.github.io/csb-3g1eu/index.html",
+    "static/js/2.17c210ea.chunk.js.LICENSE.txt": "https://umandam.github.io/csb-3g1eu/static/js/2.17c210ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be24a831.js",
+    "static/js/2.17c210ea.chunk.js",
+    "static/js/main.c98c82fc.chunk.js"
+  ]
+}
